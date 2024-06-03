@@ -1,0 +1,1122 @@
+*-----------------NEW CLEANING-----------------*
+*-----------------NEW CLEANING-----------------*
+*-----------------NEW CLEANING-----------------*
+*-----------------NEW CLEANING-----------------*
+DEBUG We are Near a Trader Hello
+	Repeated 26 times
+*-----------------NEW CLEANING-----------------*
+*-----------------NEW CLEANING-----------------*
+*-----------------NEW CLEANING-----------------*
+*-----------------NEW CLEANING-----------------*
+*-----------------NEW CLEANING-----------------*
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+*-----------------NEW CLEANING-----------------*
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+DEBUG Left
+	------Once------
+DEBUG Right
+	------Once------
+DEBUG Up
+	------Once------
+DEBUG Down
+	------Once------
+*-----------------NEW CLEANING-----------------*
+*-----------------NEW CLEANING-----------------*
+DEBUG ('Left', (17, 19))
+	------Once------
+DEBUG ('Right', (17, 21))
+	------Once------
+DEBUG ('Up', (16, 20))
+	------Once------
+DEBUG ('Down', (18, 20))
+	------Once------
+DEBUG ('Left', (17, 19))
+	------Once------
+DEBUG ('Right', (17, 21))
+	------Once------
+DEBUG ('Up', (16, 20))
+	------Once------
+DEBUG ('Down', (18, 20))
+	------Once------
+DEBUG ('Left', (17, 19))
+	------Once------
+DEBUG ('Right', (17, 21))
+	------Once------
+DEBUG ('Up', (16, 20))
+	------Once------
+DEBUG ('Down', (18, 20))
+	------Once------
+DEBUG ('Left', (17, 19))
+	------Once------
+DEBUG ('Right', (17, 21))
+	------Once------
+DEBUG ('Up', (16, 20))
+	------Once------
+DEBUG ('Down', (18, 20))
+	------Once------
+DEBUG ('Left', (18, 20))
+	------Once------
+DEBUG ('Right', (18, 22))
+	------Once------
+DEBUG ('Up', (17, 21))
+	------Once------
+DEBUG ('Down', (19, 21))
+	------Once------
+DEBUG ('Left', (18, 20))
+	------Once------
+DEBUG ('Right', (18, 22))
+	------Once------
+DEBUG ('Up', (17, 21))
+	------Once------
+DEBUG ('Down', (19, 21))
+	------Once------
+DEBUG ('Left', (18, 20))
+	------Once------
+DEBUG ('Right', (18, 22))
+	------Once------
+DEBUG ('Up', (17, 21))
+	------Once------
+DEBUG ('Down', (19, 21))
+	------Once------
+DEBUG ('Left', (18, 20))
+	------Once------
+DEBUG ('Right', (18, 22))
+	------Once------
+DEBUG ('Up', (17, 21))
+	------Once------
+DEBUG ('Down', (19, 21))
+	------Once------
+DEBUG ('Left', (18, 20))
+	------Once------
+DEBUG ('Right', (18, 22))
+	------Once------
+DEBUG ('Up', (17, 21))
+	------Once------
+DEBUG ('Down', (19, 21))
+	------Once------
+DEBUG ('Left', (18, 20))
+	------Once------
+DEBUG ('Right', (18, 22))
+	------Once------
+DEBUG ('Up', (17, 21))
+	------Once------
+DEBUG ('Down', (19, 21))
+	------Once------
+*-----------------NEW CLEANING-----------------*
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+*-----------------NEW CLEANING-----------------*
+*-----------------NEW CLEANING-----------------*
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
+*-----------------NEW CLEANING-----------------*
+DEBUG (17, 19)
+	------Once------
+DEBUG (17, 21)
+	------Once------
+DEBUG (16, 20)
+	------Once------
+DEBUG (18, 20)
+	------Once------
